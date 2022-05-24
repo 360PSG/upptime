@@ -9,11 +9,11 @@ sites:
     url: https://en.wikipedia.org
   - name: 360 PSG
     url: https://www.360psg.com
-  - name: ns1.360psg.com
+  - name: 360PSG DNS1
     check: "tcp-ping"
     url: ns1.360psg.com
     port: 53
-  - name: ns2.360psg.com
+  - name: 360PSG DNS2
     check: "tcp-ping"
     url: ns2.360psg.com
     port: 53
@@ -26,12 +26,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 360PSG Statuses
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is the 360 PSG status page which uses **real-time** data.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://www.360psg.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
