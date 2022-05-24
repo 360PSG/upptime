@@ -9,6 +9,14 @@ sites:
     url: https://en.wikipedia.org
   - name: 360 PSG
     url: https://www.360psg.com
+  - name: ns1.360psg.com
+    check: "tcp-ping"
+    url: ns1.360psg.com
+    port: 53
+  - name: ns2.360psg.com
+    check: "tcp-ping"
+    url: ns2.360psg.com
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
