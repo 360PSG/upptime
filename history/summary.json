@@ -40,19 +40,19 @@
     "url": "https://www.360psg.com",
     "icon": "https://favicons.githubusercontent.com/www.360psg.com",
     "slug": "360-psg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 261,
-    "timeWeek": 499,
-    "timeMonth": 630,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 628,
+    "timeDay": 367,
+    "timeWeek": 508,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 25
     }
   },
   {
